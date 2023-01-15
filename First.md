@@ -15,3 +15,12 @@
 - with stand collisions
 - Fast computation
 ### Immutable ledger
+### P2P Network
+### Centralized Network
+### Distributed P2P Network in BlockChain
+### BlockChain Mining 
+Transaction -> Solve Mathematical problem -> Miner solved problem first -> Miners verify the validity -> Block is added
+### Byzantine Gemerals Problem
+### Consensus Protocol
+- Prevent attacks
+- Competing Chain Problem
